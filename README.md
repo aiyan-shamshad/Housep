@@ -30,4 +30,4 @@ We evaluated 4 different models:
 ## 🚀 How to Use
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/housing-price-prediction.git
+   git clone https://github.com/aiyan-shamshad/Housep.git
