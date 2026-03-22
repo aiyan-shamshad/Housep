@@ -14,7 +14,6 @@ This project predicts housing prices based on various features using machine lea
 
 ## 🔍 Exploratory Data Analysis
 
-
 ## 🤖 Machine Learning Models
 We evaluated 4 different models:
 
@@ -31,3 +30,20 @@ We evaluated 4 different models:
 1. Clone the repository
    ```bash
    git clone https://github.com/aiyan-shamshad/Housep.git
+   ```
+
+## 📓 Jupyter Notebooks
+
+### [Copy_of_Untitled2.ipynb](Copy_of_Untitled2.ipynb)
+A comprehensive walkthrough for data exploration, model training, and evaluation on the housing price dataset.
+
+**Main steps covered:**
+- Loading and inspecting the dataset
+- Data cleaning, transformation, and visualization
+- Applying Decision Tree, Random Forest, SVR, and Multiple Linear Regression models
+- Model comparison (R², MAE, MSE, RMSE)
+- Final prediction using the best saved model
+
+You can interact with this notebook directly in your browser by opening it in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aiyan-shamshad/Housep/blob/main/Copy_of_Untitled2.ipynb)
